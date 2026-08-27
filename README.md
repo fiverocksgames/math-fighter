@@ -13,7 +13,6 @@
 ## 🎮 Project
 
 - [Math Fighter 프로젝트 페이지](https://fiverocksgames.github.io/games/math-fighter/)
-- [Android Demo](https://fiverocksgames.github.io/games/math-fighter/apk/math-fighter.apk)
 
 ## 🎯 Design Goals
 
